@@ -1,0 +1,3 @@
+rootProject.name = "CallHelperSdk"
+include ':app'
+include ':CallHelperSdk'
